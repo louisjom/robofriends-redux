@@ -11,11 +11,13 @@
       "src": "./favicon/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
+      
     },
     {
       "src": "./favicon/android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "./favicon/android-chrome-512x512.png",
